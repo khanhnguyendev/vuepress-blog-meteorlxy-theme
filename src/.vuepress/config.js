@@ -12,6 +12,8 @@ module.exports = {
     },
   },
 
+  base: '/vuepress-blog/',
+
   // Theme to use
   theme: 'meteorlxy',
 
