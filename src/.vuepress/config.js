@@ -41,7 +41,7 @@ module.exports = {
 
       // Your avatar image
       // Set to external link
-      avatar:  base + '/img/avatar.jpg',
+      avatar:  '/vuepress-blog/img/avatar.jpg',
       // Or put into `.vuepress/public` directory. E.g. `.vuepress/public/img/avatar.jpg`
       // avatar: '/img/avatar.jpg',
 
